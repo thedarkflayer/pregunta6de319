@@ -1,0 +1,10 @@
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\bin\Debug\pregunta6.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\bin\Debug\pregunta6.XML
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\bin\Debug\pregunta6.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\bin\Debug\pregunta6.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\bin\Debug\FSharp.Core.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\bin\Debug\FSharp.Core.xml
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\obj\Debug\pregunta6.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\obj\Debug\pregunta6.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta6\pregunta6\obj\Debug\pregunta6.fsprojResolveAssemblyReference.cache
